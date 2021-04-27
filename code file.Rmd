@@ -1,8 +1,8 @@
 ---
-title: "Code: Analysing gender-based income differences using NLSY79"
+title:"Code: Analysing gender-based income differences using NLSY79" 
 author: "Aiswariya Raja"
-date: "4/27/2021"
-output: html_document
+date: "3/5/2018"
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
